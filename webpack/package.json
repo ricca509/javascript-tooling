@@ -16,7 +16,8 @@
   },
   "scripts": {
     "dev": "webpack serve",
-    "build": "webpack"
+    "build": "webpack",
+    "clean": "rm -rf dist"
   },
   "author": "",
   "license": "ISC",
